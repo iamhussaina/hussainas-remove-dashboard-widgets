@@ -1,4 +1,4 @@
-# Hussainas - Remove Dashboard Widgets Snippet
+# Remove Dashboard Widgets Snippet
 
 A simple, standalone WordPress code snippet (procedural) to remove default dashboard widgets for a cleaner admin interface.
 
